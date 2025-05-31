@@ -76,7 +76,7 @@ div.interface.text-2 > img#logo.logo {
 .className {
     display: none !important;
 }
-.left-icons[data-v-20b10913] {
+.left-icons[data-v-3e0b059a] {
     background: #121214 !important;
     box-shadow: 0 0 10px #121214, 0 0 10px #121214 !important;
 }
@@ -88,6 +88,16 @@ div.interface.text-2 > img#logo.logo {
     transform:scale(1.9) !important
 }
 
+#invite-btn {
+    background: transparent !important;
+    border-radius: 100px;
+    border: none;
+    box-shadow: 0 0 10px #121214, 0 0 10px #121214 !important;
+    transform: scale(0.9);
+}
+#invite-btn:hover {
+    background: #121214 !important;
+}
 
 /* Profile */
 .interface .left-interface {
@@ -514,6 +524,12 @@ body {
     --WwmwNWM-1: unset !important;
     --black: unset !important;
     --wNMWWwmn-5: unset !important;
+    --wNMmWnw-5: unset !important;
+    --WwmwWnM-1: unset !important;
+}
+.ranked[data-v-046f8384] {
+    background: rgba(255, 0, 0, 0) !important;
+    border: none !important;
 }
 
 .map-button.active,
