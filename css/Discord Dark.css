@@ -76,7 +76,7 @@ div.interface.text-2 > img#logo.logo {
 .className {
     display: none !important;
 }
-.left-icons[data-v-3e0b059a] {
+.left-icons[data-v-6b2cd64b] {
     background: #121214 !important;
     box-shadow: 0 0 10px #121214, 0 0 10px #121214 !important;
 }
@@ -86,6 +86,19 @@ div.interface.text-2 > img#logo.logo {
 .selected[data-v-02a6df71] {
     content: url(https://i.imgur.com/FHabz3Q.png) !important;
     transform:scale(1.9) !important
+}
+
+.rar-skin {
+    width: 100% !important;
+}
+
+.item-name[data-v-46e54cf0],
+.subj-img[data-v-46e54cf0],
+.count[data-v-46e54cf0],
+.item-name[data-v-7a98659a],
+.subj-img[data-v-7a98659a],
+.count[data-v-7a98659a] {
+    z-index: 1 !important;
 }
 
 #invite-btn {
@@ -162,6 +175,11 @@ div.interface.text-2 > img#logo.logo {
 .items {
     background: #121214 !important;
     box-shadow: 0 0 1px #ffffff, 0 0 1px #ffffff !important;
+}
+.input .items[data-v-308fa0fc],
+.input .items[data-v-10bf779b],
+.input .items[data-v-10bf779b] {
+    z-index: 2 !important;
 }
 /* dark text */
 /* lightdark bg */
